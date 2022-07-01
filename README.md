@@ -61,4 +61,19 @@ As seen in the image, below is the distribution of the votes and percentages all
     print(Smallest_county_summary)
 
     ```
-  - Another 
+  - Another part of the script we can change, would be if we wanted to have the script say something else. Maybe we want the script to show "County with greatest           amount of votes".
+       ```
+    greatest_amount_county = empty string   
+    greatest_amount_county_count = 0
+    ```
+    ```
+            if votes > smallest_county_count:
+            greatest_amount_county_count = votes
+            greatest_amount_county = county_name
+            
+    greatest_amount_county_summary =  (
+        f"-------------------------\n"
+        f"Greatest Amount of Votes Per: {greatest_amount_county}\n"
+        f"-------------------------\n")
+    print(greatest_amount_county_summary)
+    ```
