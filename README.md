@@ -46,5 +46,4 @@ The script is highly versitle and can be retro-fitted to meet various need of an
 For example,  we can modify the script to be used to track the "smallest county" by changing the script to look like the following:
 
 
-``` smallest_county = empty string 
-```  smallest_county_count = 0
+``` smallest_county = empty string   smallest_county_count = 0
