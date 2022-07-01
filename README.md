@@ -3,4 +3,4 @@
 ## Election Audit Results 
 ![Election_Analysis-](Resources Election Analysis/Election Analysis text.png)
 
-## Election Audit Summary.
+## Election Audit Summary
