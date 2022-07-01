@@ -43,7 +43,7 @@ As seen in the image, below is the distribution of the votes and percentages all
 ## Election Audit Summary
 I would like to showcase tha my script can be much more benefical for any election process. ***My script is highly versitle and can be retro-fitted to meet the various needs of any election.*** 
 
- - For example,  we can modify the script to be used to track the "smallest county" votes by changing the script to look like the following:
+ - For example,  we can modify the script to be used to track the ***"smallest county"*** votes by changing the script to look like the following:
     ```
     smallest_county = empty string   
     smallest_county_count = 0
@@ -61,7 +61,7 @@ I would like to showcase tha my script can be much more benefical for any electi
     print(Smallest_county_summary)
 
     ```
-  - Another part of the script we can change, would be if we wanted to have the script say something else. Maybe we want the script to show "County With Greatest           Amount of Votes".
+  - Another part of the script we can change, would be if we wanted to have the script say something else. Maybe we want the script to show ***"County With Greatest           Amount of Votes".***
        ```
     greatest_amount_county = empty string   
     greatest_amount_county_count = 0
@@ -78,4 +78,4 @@ I would like to showcase tha my script can be much more benefical for any electi
     print(greatest_amount_county_summary)
     ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-In conclusion, I understand, and I have learned that the election process can be very complicated. I have showcased how my script can fit the needs of any eleciton proces. My script can do so much more. I can track and script to calculate by Districts. Or if elected officals would like to determine the income level of the voter I can script for that as well. My scripts takes the complexities of elections and makes aquiring the necessarry infromation to make informed decision quick and easy. I hope that my script can be of use in future election processes. 
+In conclusion, I understand, and I have learned that the election process can be very complicated. I have showcased how my script can fit the needs of any eleciton proces. My script can do so much more. ***I can track and script to calculate by Districts. Or if elected officals would like to determine the income level of the voter I can script for that as well.*** My scripts takes the complexities of elections and makes aquiring the necessarry infromation to make informed decision quick and easy. I hope that my script can be of use in future election processes. 
