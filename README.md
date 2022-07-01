@@ -1,15 +1,10 @@
 # Election-Audit Results 
-Overview Of Election Audit
 
-
-Election-Audit Results
 
 
 import csv
 import os
 
-from sqlalchemy import column
-#
 file_to_load = os.path.join("Resources", "election_results.csv")
 
 file_to_save = os.path.join("analysis", "election_analysis.txt")
@@ -18,8 +13,6 @@ total_votes = 0
 
 candidate_options = []
 candidate_votes = {}
-
-
 
 county_options = []
 county_votes = {}
@@ -75,8 +68,6 @@ with open(file_to_load) as election_data:
        
         county_votes[county_name] += 1
 
-
-
 with open(file_to_save, "w") as txt_file:
 
    
@@ -90,7 +81,6 @@ with open(file_to_save, "w") as txt_file:
 
     txt_file.write(election_results)
 
-   
     for county_name in county_votes:
       
         votes = county_votes.get(county_name)
@@ -107,16 +97,11 @@ with open(file_to_save, "w") as txt_file:
             largest_county_count = votes
             largest_county = county_name
           
-
-   
     largest_county_summary =  (
         f"-------------------------\n"
         f"Largest County Turnout: {largest_county}\n"
         f"-------------------------\n")
     print(largest_county_summary)
-
-
-    
 
     txt_file.write(largest_county_summary)
     
@@ -139,7 +124,6 @@ with open(file_to_save, "w") as txt_file:
             winning_candidate = candidate_name
             winning_percentage = vote_percentage
 
-   
         f"-------------------------\n"
         f"Winner: {winning_candidate}\n"
         f"Winning Vote Count: {winning_count:,}\n"
@@ -147,10 +131,4 @@ with open(file_to_save, "w") as txt_file:
         f"-------------------------\n")
     print(winning_candidate_summary)
 
-    
     txt_file.write(winning_candidate_summary)
-
-
-
-
-# Election-Audit Summary 
