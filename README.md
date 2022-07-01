@@ -43,7 +43,7 @@ As seen in the image, below is the distribution of the votes and percentages all
 ## Election Audit Summary
 ### The script is highly versitle and can be retro-fitted to meet various need of any election.
 
-  - For example,  we can modify the script to be used to track the "smallest county" by changing the script to look like the following:
+  -For example,  we can modify the script to be used to track the "smallest county" by changing the script to look like the following:
   ```
   smallest_county = empty string   
   smallest_county_count = 0
