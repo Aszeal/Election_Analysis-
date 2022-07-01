@@ -26,8 +26,9 @@ As seen in the image, below is the distribution of the votes and percentages all
 
 
 9. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+  The candidate that won was Diana DeGette. Diana absolutely defeated her opponents by 73.8 percent. A smashing victory. 
 
-
+   - Diana DeGette: 73.8% (272,892)
 
 
 ![Election Analysis](https://github.com/Aszeal/Election_Analysis-/blob/main/Resources%20Election%20Analysis/Election%20Analysis%20text.png)
