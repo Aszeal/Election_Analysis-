@@ -3,7 +3,7 @@
 me to create a consistently accurate sript that produces, the voter turnout for each county, percentage of votes from each county out of the total count, and each county with the highest turnout. I completed the task. Below I will explain the election audit results and a comprehensive summary. 
 
 ## Election Audit Results 
-Below, is the election aduit results. I will referance the image.
+### Below, is the election aduit results. I will referance the image.
 
 
 
