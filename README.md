@@ -4,11 +4,17 @@ me to create a consistently accurate sript that produces, the voter turnout for 
 
 ## Election Audit Results 
 ### Below, is the election aduit results. I will referance the image.
-- How many votes were cast in this congressional election?
-- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-- Which county had the largest number of votes?
-- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+1. How many votes were cast in this congressional election?
+  - As seen below, the total votes amounted to 369,711.
+  
+3. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+  - As seen below, 
+    - Jefferson: 10.5% (38,855)
+    - Denver: 82.8% (306,055)
+    - Arapahoe: 6.7% (24,801)
+5. Which county had the largest number of votes?
+6. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+7. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 
 
