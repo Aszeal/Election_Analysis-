@@ -12,8 +12,7 @@ me to create a consistently accurate sript that produces the voter turnout for e
     - Jefferson: 10.5% (38,855)
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
-    
-5. Which county had the largest number of votes?
+
   - The county that had the largest turnout was Denver at a astounding 306,055 votes.
   
 7. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
