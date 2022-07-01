@@ -41,7 +41,7 @@ As seen in the image, below is the distribution of the votes and percentages all
 ![Election Analysis](https://github.com/Aszeal/Election_Analysis-/blob/main/Resources%20Election%20Analysis/Election%20Analysis%20text.png)
 
 ## Election Audit Summary
-### The script is highly versitle and can be retro-fitted to meet various need of any election.
+### The script is highly versitle and can be retro-fitted to meet the various needs of any election.
 
  - For example,  we can modify the script to be used to track the "smallest county" votes by changing the script to look like the following:
     ```
@@ -61,7 +61,7 @@ As seen in the image, below is the distribution of the votes and percentages all
     print(Smallest_county_summary)
 
     ```
-  - Another part of the script we can change, would be if we wanted to have the script say something else. Maybe we want the script to show "County with greatest           amount of votes".
+  - Another part of the script we can change, would be if we wanted to have the script say something else. Maybe we want the script to show "County With Greatest           Amount of Votes".
        ```
     greatest_amount_county = empty string   
     greatest_amount_county_count = 0
@@ -73,7 +73,7 @@ As seen in the image, below is the distribution of the votes and percentages all
             
     greatest_amount_county_summary =  (
         f"-------------------------\n"
-        f"Greatest Amount of Votes Per: {greatest_amount_county}\n"
+        f": County With Greatest Amount of Votes: {greatest_amount_county}\n"
         f"-------------------------\n")
     print(greatest_amount_county_summary)
     ```
