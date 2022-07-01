@@ -1,6 +1,6 @@
 ## Overview of Election Audit 
 
 ## Election Audit Results 
-![Election_Analysis-](Resources Election Analysis/Election Analysis text.png)
+![Election Analysis](https://github.com/Aszeal/Election_Analysis-/blob/main/Resources%20Election%20Analysis/Election%20Analysis%20text.png)
 
 ## Election Audit Summary.
