@@ -77,3 +77,4 @@ As seen in the image, below is the distribution of the votes and percentages all
         f"-------------------------\n")
     print(greatest_amount_county_summary)
     ```
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
