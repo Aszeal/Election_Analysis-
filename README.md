@@ -1,4 +1,4 @@
-# Election-Audit Results 
+
 
 
 
@@ -17,60 +17,44 @@ candidate_votes = {}
 county_options = []
 county_votes = {}
 
-
 winning_candidate = ""
 winning_count = 0
 winning_percentage = 0
 
-
 largest_county = ""
 largest_county_count = 0
-
 
 with open(file_to_load) as election_data:
     reader = csv.reader(election_data)
 
-    
     header = next(reader)
 
-    
     for row in reader:
 
-        
         total_votes = total_votes + 1
      
-        
         candidate_name = row[2]
 
-        
         county_name = row[1]
 
         if candidate_name not in candidate_options:
 
-            
             candidate_options.append(candidate_name)
 
-            
             candidate_votes[candidate_name] = 0
 
-        
         candidate_votes[candidate_name] += 1
-
-
+        
         if county_name not in county_options:
 
-          
             county_options.append(county_name)
 
-            
             county_votes[county_name] = 0
 
-       
         county_votes[county_name] += 1
 
 with open(file_to_save, "w") as txt_file:
 
-   
     election_results = (
         f"\nElection Results\n"
         f"-------------------------\n"
@@ -107,18 +91,15 @@ with open(file_to_save, "w") as txt_file:
     
     for candidate_name in candidate_votes:
 
-       
         votes = candidate_votes.get(candidate_name)
         vote_percentage = float(votes) / float(total_votes) * 100
         candidate_results = (
             f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
 
-        
         print(candidate_results)
         
         txt_file.write(candidate_results)
 
-        
         if (votes > winning_count) and (vote_percentage > winning_percentage):
             winning_count = votes
             winning_candidate = candidate_name
