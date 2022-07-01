@@ -73,7 +73,7 @@ As seen in the image, below is the distribution of the votes and percentages all
             
     greatest_amount_county_summary =  (
         f"-------------------------\n"
-        f": County With Greatest Amount of Votes: {greatest_amount_county}\n"
+        f"County With Greatest Amount of Votes: {greatest_amount_county}\n"
         f"-------------------------\n")
     print(greatest_amount_county_summary)
     ```
