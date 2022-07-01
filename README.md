@@ -50,17 +50,15 @@ As seen in the image, below is the distribution of the votes and percentages all
     ```
     
     ```
-            if votes > largest_county_count:
-            largest_county_count = votes
-            largest_county = county_name
-          
-
-    # 7: Print the county with the largest turnout to the terminal.
-    largest_county_summary =  (
+            if votes > smallest_county_count:
+            smallest_county_count = votes
+            smallest_county = county_name
+            
+    smallest_county_summary =  (
         f"-------------------------\n"
-        f"Largest County Turnout: {largest_county}\n"
+        f"Smallest County Turnout: {Smallest_county}\n"
         f"-------------------------\n")
-    print(largest_county_summary)
+    print(Smallest_county_summary)
 
     ```
   - Another 
