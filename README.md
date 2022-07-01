@@ -5,7 +5,7 @@ me to create a consistently accurate sript that produces the voter turnout for e
 ## Election Audit Results 
 ### Below, is the *Election Aduit Results* . I will referance the image.
 1. How many votes were cast in this congressional election?
-  - As seen below, the total votes amounted to 369,711.
+  - As seen below, the total votes amounted to ***369,711*** .
   
   
 3. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
