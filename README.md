@@ -4,13 +4,9 @@
 
 import csv
 import os
-
 file_to_load = os.path.join("Resources", "election_results.csv")
-
 file_to_save = os.path.join("analysis", "election_analysis.txt")
-
 total_votes = 0
-
 candidate_options = []
 candidate_votes = {}
 
