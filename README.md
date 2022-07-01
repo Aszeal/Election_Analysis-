@@ -9,12 +9,12 @@ me to create a consistently accurate sript that produces the voter turnout for e
   
   
 3. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-  - ***Dever had the highest percentage of votes***. Following, we have Jefferson at 10.5 percent and then Arapahoe at 6.7 percent.
+  - ***Dever had the highest percentage of votes***. Following, we have Jefferson at ***10.5*** percent and then Arapahoe at ***6.7*** percent.
     - Jefferson: 10.5% (38,855)
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
 
-  - The county that had the largest amount of votes was Denver at an astounding 306,055 votes.
+  - The county that had the largest amount of votes was Denver at an astounding ***306,055 votes***.
   
   
 7. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
@@ -26,7 +26,7 @@ As seen in the image, below is the distribution of the votes and percentages all
 
 
 9. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-  The candidate that won was Diana DeGette. Diana absolutely defeated her opponents by 73.8 percent. A smashing victory. 
+  The candidate that won was ***Diana DeGette***. Diana absolutely defeated her opponents by ***73.8 percent***. A smashing victory. 
 
    - Diana DeGette: 73.8% (272,892)
 
