@@ -8,7 +8,7 @@ me to create a consistently accurate sript that produces, the voter turnout for 
   - As seen below, the total votes amounted to 369,711.
   
 3. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-  - As seen below, 
+  - Dever had the highest percentage of votes. Following, we have Jefferson at 10.5 percent and then Arapahoe at 6.7 percent.
     - Jefferson: 10.5% (38,855)
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
