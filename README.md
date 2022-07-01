@@ -41,7 +41,7 @@ As seen in the image, below is the distribution of the votes and percentages all
 ![Election Analysis](https://github.com/Aszeal/Election_Analysis-/blob/main/Resources%20Election%20Analysis/Election%20Analysis%20text.png)
 
 ## Election Audit Summary
-I would like to showcase tha my script can be much more benefical for any election process. ***My script is highly versitle and can be retro-fitted to meet the various needs of any election.*** 
+I would like to showcase tha my script can be much more benefical for any election process. ***My script is highly versatile and can be retro-fitted to meet the various needs of any election.*** 
 
  - For example,  we can modify the script to be used to track the ***"smallest county"*** votes by changing the script to look like the following:
     ```
