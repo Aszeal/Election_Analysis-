@@ -78,6 +78,6 @@ I would like to showcase tha\pr my script can be much more benefical for any ele
     ```
     
     
-
+![Election Analysis](https://github.com/Aszeal/Election_Analysis-/blob/main/Summary%20Code.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In conclusion, I understand, and I have learned that the election process can be very complicated. I have showcased how my script can fit the needs of any eleciton process. My script can do so much more. ***I can script to calculate votes by Districts. Or if elected officals would like to determine the income level of the voter I can script for that as well.*** My script takes the overly-complicated election process and makes aquiring the necessary infromation to make informed decision quick and easy. I hope that my script can be of use in future election processes. 
