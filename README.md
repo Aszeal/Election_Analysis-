@@ -31,6 +31,14 @@ As seen in the image, below is the distribution of the votes and percentages all
    - Diana DeGette: 73.8% (272,892)
 
 
+
+
+
+
+
+
+
+
 ![Election Analysis](https://github.com/Aszeal/Election_Analysis-/blob/main/Resources%20Election%20Analysis/Election%20Analysis%20text.png)
 
 ## Election Audit Summary.
